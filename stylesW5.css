@@ -23,6 +23,17 @@ li {
   line-height: 1;
   list-style: none;
 }
+p {
+  display: block;
+  margin: 0 auto;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  color: rgb(16, 16, 197);
+  background-color: aqua;
+}
 
 .weather-app {
   border: 1px solid #dadde1;
